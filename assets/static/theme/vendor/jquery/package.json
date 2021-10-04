@@ -106,7 +106,7 @@
     "sizzle": "2.3.3",
     "strip-json-comments": "2.0.1",
     "testswarm": "1.1.0",
-    "uglify-js": "3.3.4"
+    "uglify-js": "3.14.2"
   },
   "homepage": "https://jquery.com",
   "keywords": [
