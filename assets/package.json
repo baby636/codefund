@@ -22,7 +22,7 @@
     "chart.js": "2.7.1",
     "clean-webpack-plugin": "^0.1.19",
     "codemirror": "5.33.0",
-    "copy-webpack-plugin": "^4.5.1",
+    "copy-webpack-plugin": "^5.1.2",
     "css-loader": "^0.28.10",
     "cssnano": "^3.10.0",
     "datatables.net-bs4": "1.10.16",
