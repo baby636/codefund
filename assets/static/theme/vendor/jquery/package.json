@@ -77,7 +77,7 @@
     "grunt-babel": "7.0.0",
     "grunt-cli": "1.2.0",
     "grunt-compare-size": "0.4.2",
-    "grunt-contrib-uglify": "3.0.1",
+    "grunt-contrib-uglify": "4.0.1",
     "grunt-contrib-watch": "1.0.0",
     "grunt-eslint": "20.0.0",
     "grunt-git-authors": "3.2.0",
@@ -106,7 +106,7 @@
     "sizzle": "2.3.3",
     "strip-json-comments": "2.0.1",
     "testswarm": "1.1.0",
-    "uglify-js": "3.3.4"
+    "uglify-js": "3.14.3"
   },
   "homepage": "https://jquery.com",
   "keywords": [
