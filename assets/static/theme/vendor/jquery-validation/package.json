@@ -40,7 +40,7 @@
   },
   "description": "Client-side form validation made easy",
   "devDependencies": {
-    "commitplease": "2.3.1",
+    "commitplease": "2.7.0",
     "grunt": "1.0.1",
     "grunt-contrib-compress": "1.2.0",
     "grunt-contrib-concat": "1.0.1",
