@@ -42,7 +42,7 @@
     "ion-rangeslider": "2.2.0",
     "jquery": "^3.3.1",
     "jquery-ui-dist": "1.12.1",
-    "jquery-validation": "1.17.0",
+    "jquery-validation": "1.19.5",
     "jquery.maskedinput": "1.4.1",
     "ladda": "1.0.5",
     "lodash": "^4.17.5",
