@@ -48,7 +48,7 @@
     "@popperjs/test-utils": "^1.0.0",
     "eslint": "^4.1.1",
     "nuget-publish": "^1.0.3",
-    "typescript": "^2.7.1"
+    "typescript": "^4.7.4"
   },
   "homepage": "https://popper.js.org",
   "keywords": [
