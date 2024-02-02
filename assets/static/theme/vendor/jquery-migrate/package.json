@@ -70,7 +70,7 @@
     "grunt-contrib-concat": "1.0.1",
     "grunt-contrib-uglify": "3.0.1",
     "grunt-contrib-watch": "1.0.0",
-    "grunt-coveralls": "1.0.1",
+    "grunt-coveralls": "2.0.0",
     "grunt-eslint": "20.0.0",
     "grunt-git-authors": "3.2.0",
     "grunt-npmcopy": "0.1.0",
@@ -78,7 +78,7 @@
     "jquery": "3.1.1",
     "load-grunt-tasks": "3.5.2",
     "qunitjs": "2.0.1",
-    "testswarm": "1.1.0"
+    "testswarm": "1.1.1"
   },
   "homepage": "https://github.com/jquery/jquery-migrate",
   "keywords": [
