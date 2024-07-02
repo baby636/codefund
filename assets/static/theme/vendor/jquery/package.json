@@ -105,7 +105,7 @@
     "sinon": "2.3.7",
     "sizzle": "2.3.3",
     "strip-json-comments": "2.0.1",
-    "testswarm": "1.1.0",
+    "testswarm": "1.1.1",
     "uglify-js": "3.3.4"
   },
   "homepage": "https://jquery.com",
