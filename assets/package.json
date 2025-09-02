@@ -21,7 +21,7 @@
     "bootstrap-daterangepicker": "2.1.30",
     "chart.js": "2.7.1",
     "clean-webpack-plugin": "^0.1.19",
-    "codemirror": "5.33.0",
+    "codemirror": "6.0.0",
     "copy-webpack-plugin": "^4.5.1",
     "css-loader": "^0.28.10",
     "cssnano": "^3.10.0",
